@@ -1,0 +1,26 @@
+{
+  "name": "scale-dynos",
+  "version": "0.0.1",
+  "description": "Scaling dynos to save that $",
+  "main": "index.js",
+  "dependencies": {
+    "heroku-client": "^3.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rbright/lambda-heroku-scaler.git"
+  },
+  "author": {
+    "name": "Ryan Bright",
+    "email": "ryan@ryanbright.me"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rbright/lambda-heroku-scaler/issues"
+  },
+  "homepage": "https://github.com/rbright/lambda-heroku-scaler#readme"
+}
