@@ -1,0 +1,8 @@
+{
+  "name": "lambda-heroku-scaler",
+  "description": "Scaling dynos up and down to save that $",
+  "memory": 128,
+  "timeout": 5,
+  "role": "arn:aws:iam::198472842493:role/heroku-scaling_lambda_function",
+  "environment": {}
+}
